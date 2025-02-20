@@ -1240,6 +1240,27 @@
           ]
         },
         {
+          "name": "Paragon",
+          "id": 92072,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/92/92072.png",
+          "colors": [
+            "#BCD6EF",
+            "#474AF7"
+          ],
+          "descriptions": [
+            {
+              "description": "This chroma was released as an exclusive drop from The Sanctum.",
+              "region": "riot"
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 6,
+              "region": "riot"
+            }
+          ]
+        },
+        {
           "name": "Pearl",
           "id": 92053,
           "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/92/92053.png",

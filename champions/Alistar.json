@@ -970,6 +970,38 @@
       "splashArtist": [
         "Alex 'alexplank' Flores"
       ]
+    },
+    {
+      "name": "Grand Reckoning",
+      "id": 12039,
+      "isBase": false,
+      "availability": "Upcoming",
+      "formatName": "Grand Reckoning",
+      "lootEligible": true,
+      "cost": "Special",
+      "sale": 0,
+      "distribution": "2025, S1 Act 2 Free Battle Pass reward",
+      "rarity": "NoRarity",
+      "chromas": [],
+      "lore": "His mettle was written in every scar upon his skin. They struck him a thousand times with a thousand faces—Reckoners, soldiers, fighters of every conquered nation—and he stood up, defiant, to a thousand more. They wanted him to become the monster they believed he was… but Alistar would never be broken.",
+      "release": "0000-00-00",
+      "set": [
+        "Grand Reckoning"
+      ],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin39/images/alistar_splash_centered_39.skins_alistar_skin39.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin39/images/alistar_splash_uncentered_39.skins_alistar_skin39.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin39/images/alistar_splash_tile_39.skins_alistar_skin39.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin39/alistarloadscreen_39.skins_alistar_skin39.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin39/alistarloadscreen_39_le.skins_alistar_skin39.jpg",
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "voiceActor": [
+        "Harlan Hogan"
+      ],
+      "splashArtist": []
     }
   ]
 }

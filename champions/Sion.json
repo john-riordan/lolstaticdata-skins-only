@@ -1170,6 +1170,38 @@
         "Sora Kim",
         "West Studio"
       ]
+    },
+    {
+      "name": "Grand Reckoning",
+      "id": 14049,
+      "isBase": false,
+      "availability": "Upcoming",
+      "formatName": "Grand Reckoning",
+      "lootEligible": true,
+      "cost": "Special",
+      "sale": 0,
+      "distribution": "2025, S1 Act 2 Premium Battle Pass reward",
+      "rarity": "Epic",
+      "chromas": [],
+      "lore": "Beneath the armor Sion was living flesh and blood, same as every Hand of Noxus who came before him. But whenever he decided to enter the arena, his roar would shake the stands, his bloody signature the crunch of a blunt axe through bone. His footfalls alone made even the most seasoned pit fighter cower in fear… and the crowd loved every minute of it.",
+      "release": "0000-00-00",
+      "set": [
+        "Grand Reckoning"
+      ],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/images/sion_splash_centered_49.skins_sion_skin49.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/images/sion_splash_uncentered_49.skins_sion_skin49.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/images/sion_splash_tile_49.skins_sion_skin49.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/sionloadscreen_49.skins_sion_skin49.jpg",
+      "loadScreenVintagePath": null,
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "voiceActor": [
+        "Scott McNeil"
+      ],
+      "splashArtist": []
     }
   ]
 }

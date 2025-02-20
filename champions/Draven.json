@@ -1396,6 +1396,38 @@
         "Eric Xie",
         "West Studio"
       ]
+    },
+    {
+      "name": "Grand Reckoning",
+      "id": 119058,
+      "isBase": false,
+      "availability": "Upcoming",
+      "formatName": "Grand Reckoning",
+      "lootEligible": true,
+      "cost": 1350,
+      "sale": 0,
+      "distribution": null,
+      "rarity": "Epic",
+      "chromas": [],
+      "lore": "“The master of ceremonies, the host with the most, the axe-spinning icon of the arena himself... DRRRRRRRRRRRRRRRAVEN!” The crowd goes wild for his entrance, bursting into raucous applause. Adoration never gets old—and a show where he takes center stage is music to Draven's ears. Oh, and Darius is being celebrated too.",
+      "release": "0000-00-00",
+      "set": [
+        "Grand Reckoning"
+      ],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin58/images/draven_splash_centered_58.skins_draven_skin58.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin58/images/draven_splash_uncentered_58.skins_draven_skin58.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin58/images/draven_splash_tile_58.skins_draven_skin58.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin58/dravenloadscreen_58.skins_draven_skin58.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin58/dravenloadscreen_58_le.skins_draven_skin58.jpg",
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "voiceActor": [
+        "Erik Braa"
+      ],
+      "splashArtist": []
     }
   ]
 }

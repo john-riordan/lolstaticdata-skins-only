@@ -690,6 +690,38 @@
         "Huyy Nguyen",
         "West Studio"
       ]
+    },
+    {
+      "name": "Grand Reckoning",
+      "id": 526030,
+      "isBase": false,
+      "availability": "Upcoming",
+      "formatName": "Grand Reckoning",
+      "lootEligible": true,
+      "cost": "Special",
+      "sale": 0,
+      "distribution": "2025, S1 Act 2 Premium Battle Pass reward",
+      "rarity": "Epic",
+      "chromas": [],
+      "lore": "In training, Rell was told that the arena is unforgiving. On the sand, you couldn't rely on anyone but yourself, and maybe your mount… if you could stay in the saddle. But if you let it, that brutal world inside the arena would cut you, bleed you, strike you down. Reckonings were built on blood and iron, forged in the fire of conflict—but so was she.",
+      "release": "0000-00-00",
+      "set": [
+        "Grand Reckoning"
+      ],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin30/images/rell_splash_centered_30.skins_rell_skin30.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin30/images/rell_splash_uncentered_30.skins_rell_skin30.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin30/images/rell_splash_tile_30.skins_rell_skin30.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin30/rellloadscreen_30.skins_rell_skin30.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin30/rellloadscreen_30_le.skins_rell_skin30.jpg",
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "voiceActor": [
+        "Laya DeLeon Hayes"
+      ],
+      "splashArtist": []
     }
   ]
 }

@@ -1426,6 +1426,38 @@
         "Jiunn Kuo",
         "Kudos Productions"
       ]
+    },
+    {
+      "name": "Grand Reckoning",
+      "id": 91059,
+      "isBase": false,
+      "availability": "Upcoming",
+      "formatName": "Grand Reckoning",
+      "lootEligible": true,
+      "cost": "Special",
+      "sale": 0,
+      "distribution": "2025, S1 Act 2 Premium Battle Pass reward",
+      "rarity": "Epic",
+      "chromas": [],
+      "lore": "Talon's knife sinks beneath worn armor as his target breathes his last. He glances at the door. There are only moments to escape before guards find the Reckoner dead. Luckily, this man isn't much larger than himself, and if he is seen leaving his room “alive,” they will find the body cold—and Talon long since returned to the Assassin's Guild for payment.",
+      "release": "0000-00-00",
+      "set": [
+        "Grand Reckoning"
+      ],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin59/images/talon_splash_centered_59.skins_talon_skin59.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin59/images/talon_splash_uncentered_59.skins_talon_skin59.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin59/images/talon_splash_tile_59.skins_talon_skin59.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin59/talonloadscreen_59.skins_talon_skin59.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin59/talonloadscreen_59_le.skins_talon_skin59.jpg",
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "voiceActor": [
+        "Travis Willingham"
+      ],
+      "splashArtist": []
     }
   ]
 }
