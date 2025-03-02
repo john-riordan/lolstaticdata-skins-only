@@ -1422,7 +1422,7 @@
       "lootEligible": true,
       "cost": "Special",
       "sale": 0,
-      "distribution": "125 Mythic Essence",
+      "distribution": "150 Mythic Essence",
       "rarity": "Mythic",
       "chromas": [],
       "lore": "Don't let the butterflies fool you: otherworldly elegance may be Katarina's game, but that gala-ready look is sharper than her knives. Fashion is a metamorphosis, after all. Try to keep up.",
@@ -1660,7 +1660,7 @@
       "lootEligible": true,
       "cost": "Special",
       "sale": 0,
-      "distribution": "2025, S1 Act 1 Premium Battle Pass reward (Level 55)",
+      "distribution": "2025, S1 Act 1 Premium Battle Pass reward (Level 50)",
       "rarity": "Mythic",
       "chromas": [
         {

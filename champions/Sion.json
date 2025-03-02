@@ -1180,8 +1180,8 @@
       "lootEligible": true,
       "cost": "Special",
       "sale": 0,
-      "distribution": "2025, S1 Act 2 Premium Battle Pass reward",
-      "rarity": "Epic",
+      "distribution": "2025, S1 Act 2 Free Battle Pass reward (Level 20)",
+      "rarity": "NoRarity",
       "chromas": [],
       "lore": "Beneath the armor Sion was living flesh and blood, same as every Hand of Noxus who came before him. But whenever he decided to enter the arena, his roar would shake the stands, his bloody signature the crunch of a blunt axe through bone. His footfalls alone made even the most seasoned pit fighter cower in fear… and the crowd loved every minute of it.",
       "release": "0000-00-00",
@@ -1201,7 +1201,10 @@
       "voiceActor": [
         "Scott McNeil"
       ],
-      "splashArtist": []
+      "splashArtist": [
+        "Herbie Wang",
+        "Kudos Productions"
+      ]
     }
   ]
 }

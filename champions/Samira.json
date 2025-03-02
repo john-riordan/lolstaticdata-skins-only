@@ -562,27 +562,7 @@
             }
           ]
         },
-        {
-          "name": "Paragon",
-          "id": 360034,
-          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/360/360034.png",
-          "colors": [
-            "#BCD6EF",
-            "#474AF7"
-          ],
-          "descriptions": [
-            {
-              "description": "This chroma was released as an exclusive drop from The Sanctum.",
-              "region": "riot"
-            }
-          ],
-          "rarities": [
-            {
-              "rarity": 6,
-              "region": "riot"
-            }
-          ]
-        },
+        null,
         {
           "name": "Rose Quartz",
           "id": 360022,

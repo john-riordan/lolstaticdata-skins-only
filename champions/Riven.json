@@ -689,7 +689,7 @@
       "lootEligible": true,
       "cost": "Special",
       "sale": 0,
-      "distribution": "200 Mythic Essence",
+      "distribution": "150 Mythic Essence",
       "rarity": "Mythic",
       "chromas": [],
       "lore": "Riven's destiny is greater than she knows. One day she will determine the fate of the heavens, land, and sea, and awaken the slumbering power of the dragon within her.",
@@ -1239,27 +1239,7 @@
             }
           ]
         },
-        {
-          "name": "Paragon",
-          "id": 92072,
-          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/92/92072.png",
-          "colors": [
-            "#BCD6EF",
-            "#474AF7"
-          ],
-          "descriptions": [
-            {
-              "description": "This chroma was released as an exclusive drop from The Sanctum.",
-              "region": "riot"
-            }
-          ],
-          "rarities": [
-            {
-              "rarity": 6,
-              "region": "riot"
-            }
-          ]
-        },
+        null,
         {
           "name": "Pearl",
           "id": 92053,

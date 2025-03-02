@@ -1573,11 +1573,11 @@
       "lootEligible": true,
       "cost": "Special",
       "sale": 0,
-      "distribution": "2025, S1 Act 2 Premium Battle Pass reward",
-      "rarity": "Epic",
+      "distribution": "2025, S1 Act 2 Premium Battle Pass reward (Level 50)",
+      "rarity": "Mythic",
       "chromas": [
         {
-          "name": "Paragon",
+          "name": "Vivid",
           "id": 122066,
           "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/122/122066.png",
           "colors": [
@@ -1616,7 +1616,9 @@
       "voiceActor": [
         "Chuck Kourouklis"
       ],
-      "splashArtist": []
+      "splashArtist": [
+        "Terence 'Terrylefruit' Cantal"
+      ]
     }
   ]
 }

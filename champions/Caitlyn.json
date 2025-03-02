@@ -604,7 +604,7 @@
       "lootEligible": true,
       "cost": "Special",
       "sale": 0,
-      "distribution": "200 Mythic Essence",
+      "distribution": "150 Mythic Essence",
       "rarity": "Mythic",
       "chromas": [],
       "lore": "Appearing most recently in “Sniper Cop 7” as a golden-clad secret character, Caitlyn's popularity has finally transcended games as a medium.",
@@ -1377,7 +1377,7 @@
       "lootEligible": true,
       "cost": "Special",
       "sale": 0,
-      "distribution": "2000 Arcane 2024 Tokens",
+      "distribution": "150 Mythic Essence",
       "rarity": "Mythic",
       "chromas": [
         {

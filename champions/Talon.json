@@ -1436,8 +1436,8 @@
       "lootEligible": true,
       "cost": "Special",
       "sale": 0,
-      "distribution": "2025, S1 Act 2 Premium Battle Pass reward",
-      "rarity": "Epic",
+      "distribution": "2025, S1 Act 2 Premium Battle Pass reward (Level 10)",
+      "rarity": "NoRarity",
       "chromas": [],
       "lore": "Talon's knife sinks beneath worn armor as his target breathes his last. He glances at the door. There are only moments to escape before guards find the Reckoner dead. Luckily, this man isn't much larger than himself, and if he is seen leaving his room “alive,” they will find the body cold—and Talon long since returned to the Assassin's Guild for payment.",
       "release": "0000-00-00",
@@ -1457,7 +1457,10 @@
       "voiceActor": [
         "Travis Willingham"
       ],
-      "splashArtist": []
+      "splashArtist": [
+        "Su Fu",
+        "Kudos Productions"
+      ]
     }
   ]
 }
