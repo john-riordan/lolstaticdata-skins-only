@@ -993,6 +993,207 @@
         "Ina Wong",
         "West Studio"
       ]
+    },
+    {
+      "name": "Grill Master",
+      "id": 201042,
+      "isBase": false,
+      "availability": "Upcoming",
+      "formatName": "Grill Master",
+      "lootEligible": true,
+      "cost": 1350,
+      "sale": 0,
+      "distribution": null,
+      "rarity": "Epic",
+      "chromas": [
+        {
+          "name": "Catseye",
+          "id": 201044,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201044.png",
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Emerald",
+          "id": 201045,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201045.png",
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "id": 201050,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201050.png",
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Pearl",
+          "id": 201049,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201049.png",
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Rose Quartz",
+          "id": 201048,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201048.png",
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "TENCENT"
+            }
+          ]
+        },
+        {
+          "name": "Ruby",
+          "id": 201043,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201043.png",
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ],
+          "descriptions": [
+            {
+              "description": "This chroma was released as a bundle exclusive in 2025.",
+              "region": "riot"
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "riot"
+            }
+          ]
+        },
+        {
+          "name": "Sapphire",
+          "id": 201046,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201046.png",
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Tanzanite",
+          "id": 201047,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201047.png",
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        }
+      ],
+      "lore": "Braum is cooking up snax perfect for the hungriest of poros. Don't worry, humans can eat them too. (But they shouldn't.)",
+      "release": "0000-00-00",
+      "set": [
+        "Day Job"
+      ],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin42/images/braum_splash_centered_42.skins_braum_skin42.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin42/images/braum_splash_uncentered_42.skins_braum_skin42.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin42/images/braum_splash_tile_42.skins_braum_skin42.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin42/braumloadscreen_42.skins_braum_skin42.jpg",
+      "loadScreenVintagePath": null,
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "voiceActor": [
+        "JB Blanc"
+      ],
+      "splashArtist": []
     }
   ]
 }

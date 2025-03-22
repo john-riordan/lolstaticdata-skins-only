@@ -21,10 +21,10 @@
       "lore": "Mysterious even to other members of the Black Rose cabal, LeBlanc is but one of many names for a pale woman who has manipulated people and events since the earliest days of Noxus. Using her magic to mirror herself, the sorceress can appear to anyone, anywhere, and even be in many places at once. Always plotting just out of sight, LeBlanc’s true motives are as inscrutable as her shifting identity.",
       "release": "2010-11-02",
       "set": [],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/base/images/leblanc_splash_centered_0.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/base/images/leblanc_splash_uncentered_0.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/base/images/leblanc_splash_tile_0.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/base/leblancloadscreen.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/base/images/leblanc_splash_centered_0.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/base/images/leblanc_splash_uncentered_0.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/base/images/leblanc_splash_tile_0.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/base/leblancloadscreen_0.leblanc_rework.jpg",
       "loadScreenVintagePath": null,
       "newEffects": false,
       "newAnimations": false,
@@ -200,10 +200,10 @@
       "set": [
         "Day Job"
       ],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin02/images/leblanc_splash_centered_2.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin02/images/leblanc_splash_uncentered_2.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin02/images/leblanc_splash_tile_2.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin02/leblancloadscreen_2.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin02/images/leblanc_splash_centered_2.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin02/images/leblanc_splash_uncentered_2.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin02/images/leblanc_splash_tile_2.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin02/leblancloadscreen_2.leblanc_rework.jpg",
       "loadScreenVintagePath": null,
       "newEffects": false,
       "newAnimations": false,
@@ -232,10 +232,10 @@
       "set": [
         "Legacy"
       ],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin01/images/leblanc_splash_centered_1.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin01/images/leblanc_splash_uncentered_1.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin01/images/leblanc_splash_tile_1.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin01/leblancloadscreen_1.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin01/images/leblanc_splash_centered_1.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin01/images/leblanc_splash_uncentered_1.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin01/images/leblanc_splash_tile_1.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin01/leblancloadscreen_1.leblanc_rework.jpg",
       "loadScreenVintagePath": null,
       "newEffects": false,
       "newAnimations": false,
@@ -245,7 +245,10 @@
       "voiceActor": [
         "Carrie Keranen"
       ],
-      "splashArtist": []
+      "splashArtist": [
+        "Lejia Chan",
+        "Kudos Productions"
+      ]
     },
     {
       "name": "Mistletoe",
@@ -264,10 +267,10 @@
       "set": [
         "Snowdown Showdown"
       ],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/images/leblanc_splash_centered_3.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/images/leblanc_splash_uncentered_3.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/images/leblanc_splash_tile_3.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/leblancloadscreen_3.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/images/leblanc_splash_centered_3.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/images/leblanc_splash_uncentered_3.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/images/leblanc_splash_tile_3.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/leblancloadscreen_3.leblanc_rework.jpg",
       "loadScreenVintagePath": null,
       "newEffects": false,
       "newAnimations": false,
@@ -296,10 +299,10 @@
       "set": [
         "Trick-or-Treat"
       ],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/images/leblanc_splash_centered_4.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/images/leblanc_splash_uncentered_4.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/images/leblanc_splash_tile_4.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/leblancloadscreen_4.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/images/leblanc_splash_centered_4.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/images/leblanc_splash_uncentered_4.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/images/leblanc_splash_tile_4.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/leblancloadscreen_4.leblanc_rework.jpg",
       "loadScreenVintagePath": null,
       "newEffects": true,
       "newAnimations": true,
@@ -330,10 +333,10 @@
       "set": [
         "Elderwood"
       ],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/images/leblanc_splash_centered_5.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/images/leblanc_splash_uncentered_5.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/images/leblanc_splash_tile_5.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/leblancloadscreen_5.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/images/leblanc_splash_centered_5.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/images/leblanc_splash_uncentered_5.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/images/leblanc_splash_tile_5.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/leblancloadscreen_5.leblanc_rework.jpg",
       "loadScreenVintagePath": null,
       "newEffects": true,
       "newAnimations": true,
@@ -491,10 +494,10 @@
       "set": [
         "Program"
       ],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/images/leblanc_splash_centered_12.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/images/leblanc_splash_uncentered_12.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/images/leblanc_splash_tile_12.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/leblancloadscreen_12.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/images/leblanc_splash_centered_12.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/images/leblanc_splash_uncentered_12.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/images/leblanc_splash_tile_12.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/leblancloadscreen_12.leblanc_rework.jpg",
       "loadScreenVintagePath": null,
       "newEffects": true,
       "newAnimations": true,
@@ -547,11 +550,11 @@
       "set": [
         "World Champions: 2018"
       ],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/images/leblanc_splash_centered_19.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/images/leblanc_splash_uncentered_19.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/images/leblanc_splash_tile_19.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/leblancloadscreen_19.jpg",
-      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/leblancloadscreen_19_le.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/images/leblanc_splash_centered_19.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/images/leblanc_splash_uncentered_19.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/images/leblanc_splash_tile_19.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/leblancloadscreen_19.leblanc_rework.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/leblancloadscreen_19_le.leblanc_rework.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,
@@ -771,11 +774,11 @@
       "set": [
         "Coven"
       ],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/images/leblanc_splash_centered_20.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/images/leblanc_splash_uncentered_20.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/images/leblanc_splash_tile_20.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/leblancloadscreen_20.jpg",
-      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/leblancloadscreen_20_le.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/images/leblanc_splash_centered_20.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/images/leblanc_splash_uncentered_20.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/images/leblanc_splash_tile_20.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/leblancloadscreen_20.leblanc_rework.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/leblancloadscreen_20_le.leblanc_rework.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,
@@ -877,11 +880,11 @@
       "set": [
         "World Championship"
       ],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin29/images/leblanc_splash_centered_29.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin29/images/leblanc_splash_uncentered_29.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin29/images/leblanc_splash_tile_29.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin29/leblancloadscreen_29.jpg",
-      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin29/leblancloadscreen_29_le.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin29/images/leblanc_splash_centered_29.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin29/images/leblanc_splash_uncentered_29.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin29/images/leblanc_splash_tile_29.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin29/leblancloadscreen_29.leblanc_rework.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin29/leblancloadscreen_29_le.leblanc_rework.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,
@@ -912,11 +915,11 @@
       "set": [
         "Coven"
       ],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/images/leblanc_splash_centered_33.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/images/leblanc_splash_uncentered_33.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/images/leblanc_splash_tile_33.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/leblancloadscreen_33.jpg",
-      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/leblancloadscreen_33_le.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/images/leblanc_splash_centered_33.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/images/leblanc_splash_uncentered_33.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/images/leblanc_splash_tile_33.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/leblancloadscreen_33.leblanc_rework.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/leblancloadscreen_33_le.leblanc_rework.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,
@@ -1136,11 +1139,11 @@
       "set": [
         "Debonair"
       ],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin35/images/leblanc_splash_centered_35.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin35/images/leblanc_splash_uncentered_35.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin35/images/leblanc_splash_tile_35.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin35/leblancloadscreen_35.jpg",
-      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin35/leblancloadscreen_35_le.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin35/images/leblanc_splash_centered_35.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin35/images/leblanc_splash_uncentered_35.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin35/images/leblanc_splash_tile_35.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin35/leblancloadscreen_35.leblanc_rework.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin35/leblancloadscreen_35_le.leblanc_rework.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,
@@ -1339,11 +1342,11 @@
       "set": [
         "Bewitching"
       ],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/images/leblanc_splash_centered_45.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/images/leblanc_splash_uncentered_45.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/images/leblanc_splash_tile_45.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/leblancloadscreen_45.jpg",
-      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/leblancloadscreen_45_le.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/images/leblanc_splash_centered_45.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/images/leblanc_splash_uncentered_45.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/images/leblanc_splash_tile_45.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/leblancloadscreen_45.leblanc_rework.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/leblancloadscreen_45_le.leblanc_rework.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,
@@ -1417,10 +1420,10 @@
       "set": [
         "Risen Legends"
       ],
-      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_centered_55.skins_leblanc_skin55.jpg",
-      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_uncentered_55.skins_leblanc_skin55.jpg",
-      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_tile_55.skins_leblanc_skin55.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/leblancloadscreen_55.skins_leblanc_skin55.jpg",
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_centered_55.leblanc_rework.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_uncentered_55.leblanc_rework.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_tile_55.leblanc_rework.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/leblancloadscreen_55.leblanc_rework.jpg",
       "loadScreenVintagePath": null,
       "newEffects": true,
       "newAnimations": true,

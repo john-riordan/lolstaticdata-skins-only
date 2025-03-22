@@ -1378,6 +1378,168 @@
       "splashArtist": [
         "Bo 'chenbowow' Chen"
       ]
+    },
+    {
+      "name": "Battle Academia",
+      "id": 498057,
+      "isBase": false,
+      "availability": "Available",
+      "formatName": "Battle Academia",
+      "lootEligible": true,
+      "cost": 1820,
+      "sale": 0,
+      "distribution": null,
+      "rarity": "Legendary",
+      "chromas": [
+        {
+          "name": "Catseye",
+          "id": 498059,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498059.png",
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "TENCENT"
+            }
+          ]
+        },
+        {
+          "name": "Emerald",
+          "id": 498061,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498061.png",
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Pearl",
+          "id": 498063,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498063.png",
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Rebelguard",
+          "id": 498062,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498062.png",
+          "colors": [
+            "#D35B41",
+            "#5C0439"
+          ],
+          "descriptions": [
+            {
+              "description": "This chroma was released as a bundle exclusive in 2025.",
+              "region": "riot"
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "riot"
+            }
+          ]
+        },
+        {
+          "name": "Ruby",
+          "id": 498058,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498058.png",
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ],
+          "descriptions": [
+            {
+              "description": "This chroma was released as a bundle exclusive in 2025.",
+              "region": "riot"
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "riot"
+            }
+          ]
+        },
+        {
+          "name": "Sapphire",
+          "id": 498060,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498060.png",
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        }
+      ],
+      "lore": "Babylon Academy's God-Weapon chose Xayah to lead the school's team in this year's cross-academy tournament, which they've never won. As captain of the Battle Club, she's happy to use her new leverage to boss around her teammates and savor the “vacation” with Rakan, though she'll never admit she enjoys being a leader.",
+      "release": "2023-03-19",
+      "set": [
+        "Battle Academia"
+      ],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/images/xayah_splash_centered_57.skins_xayah_skin57.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/images/xayah_splash_uncentered_57.skins_xayah_skin57.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/images/xayah_splash_tile_57.skins_xayah_skin57.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/xayahloadscreen_57.skins_xayah_skin57.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/xayahloadscreen_57_le.skins_xayah_skin57.jpg",
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": true,
+      "newQuotes": false,
+      "voiceActor": [
+        "Laila Pyne"
+      ],
+      "splashArtist": [
+        "Sora Kim",
+        "West Studio"
+      ]
     }
   ]
 }

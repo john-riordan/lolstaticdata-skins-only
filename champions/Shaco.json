@@ -1546,6 +1546,165 @@
         "Augusto Quirino",
         "West Studio"
       ]
+    },
+    {
+      "name": "Cat-in-the-Box",
+      "id": 35064,
+      "isBase": false,
+      "availability": "Upcoming",
+      "formatName": "Cat-in-the-Box",
+      "lootEligible": true,
+      "cost": 1820,
+      "sale": 0,
+      "distribution": null,
+      "rarity": "Legendary",
+      "chromas": [
+        {
+          "name": "Catseye",
+          "id": 35068,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35068.png",
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Emerald",
+          "id": 35066,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35066.png",
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "id": 35070,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35070.png",
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Pearl",
+          "id": 35069,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35069.png",
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Rose Quartz",
+          "id": 35067,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35067.png",
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "TENCENT"
+            }
+          ]
+        },
+        {
+          "name": "Ruby",
+          "id": 35065,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35065.png",
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ],
+          "descriptions": [
+            {
+              "description": "This chroma was released as a bundle exclusive in 2025.",
+              "region": "riot"
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "riot"
+            }
+          ]
+        }
+      ],
+      "lore": "MrrRRRrrowwww. Hhhiiisssss. Meow. Purrrrr.",
+      "release": "0000-00-00",
+      "set": [
+        "Cats Versus Dogs"
+      ],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin64/images/shaco_splash_centered_64.skins_shaco_skin64.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin64/images/shaco_splash_uncentered_64.skins_shaco_skin64.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin64/images/shaco_splash_tile_64.skins_shaco_skin64.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin64/shacoloadscreen_64.skins_shaco_skin64.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin64/shacoloadscreen_64_le.skins_shaco_skin64.jpg",
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": true,
+      "newQuotes": false,
+      "voiceActor": [],
+      "splashArtist": [
+        "Horace 'Hozure' Hsu"
+      ]
     }
   ]
 }

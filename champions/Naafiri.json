@@ -465,6 +465,207 @@
         "Augusto Quirino",
         "West Studio"
       ]
+    },
+    {
+      "name": "Glizzy",
+      "id": 950020,
+      "isBase": false,
+      "availability": "Upcoming",
+      "formatName": "Glizzy",
+      "lootEligible": true,
+      "cost": 1350,
+      "sale": 0,
+      "distribution": null,
+      "rarity": "Epic",
+      "chromas": [
+        {
+          "name": "Catseye",
+          "id": 950022,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950022.png",
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Emerald",
+          "id": 950023,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950023.png",
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "id": 950027,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950027.png",
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Pearl",
+          "id": 950028,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950028.png",
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Rose Quartz",
+          "id": 950026,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950026.png",
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "TENCENT"
+            }
+          ]
+        },
+        {
+          "name": "Ruby",
+          "id": 950021,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950021.png",
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ],
+          "descriptions": [
+            {
+              "description": "This chroma was released as a bundle exclusive in 2025.",
+              "region": "riot"
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "riot"
+            }
+          ]
+        },
+        {
+          "name": "Sapphire",
+          "id": 950025,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950025.png",
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Tanzanite",
+          "id": 950024,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950024.png",
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        }
+      ],
+      "lore": "The bestest bud between two buns, Naafiri gives new meaning to the breed “wiener dog.”",
+      "release": "0000-00-00",
+      "set": [
+        "Food Fight"
+      ],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin20/images/naafiri_splash_centered_20.skins_naafiri_skin20.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin20/images/naafiri_splash_uncentered_20.skins_naafiri_skin20.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin20/images/naafiri_splash_tile_20.skins_naafiri_skin20.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin20/naafiriloadscreen_20.skins_naafiri_skin20.jpg",
+      "loadScreenVintagePath": null,
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "voiceActor": [],
+      "splashArtist": [
+        "Horace 'Hozure' Hsu"
+      ]
     }
   ]
 }

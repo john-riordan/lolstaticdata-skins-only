@@ -1201,6 +1201,207 @@
         "Jack Hsu",
         "West Studio"
       ]
+    },
+    {
+      "name": "Pool Party",
+      "id": 54048,
+      "isBase": false,
+      "availability": "Upcoming",
+      "formatName": "Pool Party",
+      "lootEligible": true,
+      "cost": 1350,
+      "sale": 0,
+      "distribution": null,
+      "rarity": "Epic",
+      "chromas": [
+        {
+          "name": "Catseye",
+          "id": 54050,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/54/54050.png",
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Emerald",
+          "id": 54052,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/54/54052.png",
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Meteorite",
+          "id": 54053,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/54/54053.png",
+          "colors": [
+            "#5F432B",
+            "#5F432B"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "id": 54054,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/54/54054.png",
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Pearl",
+          "id": 54055,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/54/54055.png",
+          "colors": [
+            "#ECF9F8",
+            "#ECF9F8"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Rose Quartz",
+          "id": 54056,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/54/54056.png",
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "TENCENT"
+            }
+          ]
+        },
+        {
+          "name": "Ruby",
+          "id": 54049,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/54/54049.png",
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ],
+          "descriptions": [
+            {
+              "description": "This chroma was released as a bundle exclusive in 2025.",
+              "region": "riot"
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "riot"
+            }
+          ]
+        },
+        {
+          "name": "Sapphire",
+          "id": 54051,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/54/54051.png",
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        }
+      ],
+      "lore": "He's coarse, he's rough, he's irritating, and he gets EVERYWHERE.",
+      "release": "0000-00-00",
+      "set": [
+        "Pool Party"
+      ],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin48/images/malphite_splash_centered_48.skins_malphite_skin48.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin48/images/malphite_splash_uncentered_48.skins_malphite_skin48.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin48/images/malphite_splash_tile_48.skins_malphite_skin48.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin48/malphiteloadscreen_48.skins_malphite_skin48.jpg",
+      "loadScreenVintagePath": null,
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "voiceActor": [],
+      "splashArtist": [
+        "Fortune 'Fortuneee' K"
+      ]
     }
   ]
 }

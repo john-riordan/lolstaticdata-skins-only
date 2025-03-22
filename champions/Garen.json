@@ -1165,6 +1165,36 @@
         "David Villegas",
         "West Studio"
       ]
+    },
+    {
+      "name": "Pengu",
+      "id": 86043,
+      "isBase": false,
+      "availability": "Upcoming",
+      "formatName": "Pengu",
+      "lootEligible": true,
+      "cost": "Special",
+      "sale": 0,
+      "distribution": "Available to select as Garen in all normal queues during April Fools.",
+      "rarity": "NoRarity",
+      "chromas": [],
+      "lore": null,
+      "release": "0000-00-00",
+      "set": [],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin43/images/garen_splash_centered_43.pengugaren.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin43/images/garen_splash_uncentered_43.pengugaren.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin43/images/garen_splash_tile_43.pengugaren.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin43/garenloadscreen_43.pengugaren.jpg",
+      "loadScreenVintagePath": null,
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": true,
+      "newQuotes": false,
+      "voiceActor": [],
+      "splashArtist": [
+        "Alex 'alexplank' Flores"
+      ]
     }
   ]
 }

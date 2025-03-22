@@ -654,6 +654,124 @@
         "Julia Yurtsev",
         "Jennifer Wuestling"
       ]
+    },
+    {
+      "name": "Battle Academia",
+      "id": 141026,
+      "isBase": false,
+      "availability": "Available",
+      "formatName": "Battle Academia",
+      "lootEligible": true,
+      "cost": 1350,
+      "sale": 0,
+      "distribution": null,
+      "rarity": "Epic",
+      "chromas": [
+        {
+          "name": "Catseye",
+          "id": 141028,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/141/141028.png",
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "TENCENT"
+            }
+          ]
+        },
+        {
+          "name": "Emerald",
+          "id": 141030,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/141/141030.png",
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Ruby",
+          "id": 141027,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/141/141027.png",
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ],
+          "descriptions": [
+            {
+              "description": "This chroma was released as a bundle exclusive in 2025.",
+              "region": "riot"
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "riot"
+            }
+          ]
+        },
+        {
+          "name": "Sapphire",
+          "id": 141029,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/141/141029.png",
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        }
+      ],
+      "lore": "Co-captains of the Assassin Club, Kayn and Rhaast are an embodiment of Babylon Academy's tactics. Kayn lulls rivals into a false sense of security before Rhaast explodes with overwhelming force, pummelling opponents into submission. Rhaast's diligent work ethic is the real reason they're here at all, as Kayn's aloofness irks all of his classmates.",
+      "release": "2025-03-19",
+      "set": [
+        "Battle Academia"
+      ],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin26/images/kayn_splash_centered_26.skins_kayn_skin26.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin26/images/kayn_splash_uncentered_26.skins_kayn_skin26.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin26/images/kayn_splash_tile_26.skins_kayn_skin26.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin26/kaynloadscreen_26.skins_kayn_skin26.jpg",
+      "loadScreenVintagePath": null,
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "voiceActor": [
+        "Robbie Daymond",
+        "Sam A. Mowry"
+      ],
+      "splashArtist": []
     }
   ]
 }

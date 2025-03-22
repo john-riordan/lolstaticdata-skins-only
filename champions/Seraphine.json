@@ -1136,7 +1136,7 @@
       "name": "Dumpling Darlings",
       "id": 147050,
       "isBase": false,
-      "availability": "Upcoming",
+      "availability": "Available",
       "formatName": "Dumpling Darlings",
       "lootEligible": true,
       "cost": 1350,
@@ -1314,7 +1314,7 @@
         }
       ],
       "lore": "Seraphine's a double threat who sings and cooks, leaving the cafe's guests swooning and sated in equal measure. Come for the treats, she says, stay for the tunes! Her dream is to become the cafe's star attraction, enchanting chefs and customers alike.",
-      "release": "0000-00-00",
+      "release": "2025-03-05",
       "set": [
         "Dumpling Darlings"
       ],

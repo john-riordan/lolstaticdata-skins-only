@@ -1176,6 +1176,41 @@
         "Augusto Quirino",
         "West Studio"
       ]
+    },
+    {
+      "name": "Prestige Battle Academia",
+      "id": 246050,
+      "isBase": false,
+      "availability": "Rare",
+      "formatName": "Prestige Battle Academia",
+      "lootEligible": true,
+      "cost": "Special",
+      "sale": 0,
+      "distribution": "150 Mythic Essence",
+      "rarity": "Mythic",
+      "chromas": [],
+      "lore": "Some say class president and Sorcery Club captain Qiyana is Babylon Academy's greatest student (a rumor she gladly spread). When the God-Weapon instead chose Xayah to lead Babylon into the cross-academy tournament, Qiyana took it personally. Now she plots her revenge, and her opening move? Relationship sabotage.",
+      "release": "2025-03-19",
+      "set": [
+        "Battle Academia"
+      ],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin50/images/qiyana_splash_centered_50.skins_qiyana_skin50.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin50/images/qiyana_splash_uncentered_50.skins_qiyana_skin50.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin50/images/qiyana_splash_tile_50.skins_qiyana_skin50.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin50/qiyanaloadscreen_50.skins_qiyana_skin50.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin50/qiyanaloadscreen_50_le.skins_qiyana_skin50.jpg",
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "voiceActor": [
+        "Montse Hernandez"
+      ],
+      "splashArtist": [
+        "Marie Magny",
+        "West Studio"
+      ]
     }
   ]
 }

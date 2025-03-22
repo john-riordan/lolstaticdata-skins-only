@@ -1431,7 +1431,7 @@
       "name": "Grand Reckoning",
       "id": 91059,
       "isBase": false,
-      "availability": "Upcoming",
+      "availability": "Rare",
       "formatName": "Grand Reckoning",
       "lootEligible": true,
       "cost": "Special",
@@ -1440,7 +1440,7 @@
       "rarity": "NoRarity",
       "chromas": [],
       "lore": "Talon's knife sinks beneath worn armor as his target breathes his last. He glances at the door. There are only moments to escape before guards find the Reckoner dead. Luckily, this man isn't much larger than himself, and if he is seen leaving his room “alive,” they will find the body cold—and Talon long since returned to the Assassin's Guild for payment.",
-      "release": "0000-00-00",
+      "release": "2025-03-05",
       "set": [
         "Grand Reckoning"
       ],

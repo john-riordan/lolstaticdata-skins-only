@@ -1160,6 +1160,210 @@
         "Lejia Chan",
         "Kudos Productions"
       ]
+    },
+    {
+      "name": "Battle Academia",
+      "id": 497047,
+      "isBase": false,
+      "availability": "Available",
+      "formatName": "Battle Academia",
+      "lootEligible": true,
+      "cost": 1350,
+      "sale": 0,
+      "distribution": null,
+      "rarity": "Epic",
+      "chromas": [
+        {
+          "name": "Catseye",
+          "id": 497055,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/497/497055.png",
+          "colors": [
+            "#FFEE59",
+            "#FFEE59"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "TENCENT"
+            }
+          ]
+        },
+        {
+          "name": "Emerald",
+          "id": 497049,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/497/497049.png",
+          "colors": [
+            "#2DA130",
+            "#2DA130"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Obsidian",
+          "id": 497054,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/497/497054.png",
+          "colors": [
+            "#27211C",
+            "#27211C"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Rose Quartz",
+          "id": 497052,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/497/497052.png",
+          "colors": [
+            "#E58BA5",
+            "#E58BA5"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "TENCENT"
+            }
+          ]
+        },
+        {
+          "name": "Ruby",
+          "id": 497048,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/497/497048.png",
+          "colors": [
+            "#D33528",
+            "#D33528"
+          ],
+          "descriptions": [
+            {
+              "description": "This chroma was released as a bundle exclusive in 2025.",
+              "region": "riot"
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": 1,
+              "region": "riot"
+            }
+          ]
+        },
+        {
+          "name": "Sapphire",
+          "id": 497051,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/497/497051.png",
+          "colors": [
+            "#2756CE",
+            "#2756CE"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Tanzanite",
+          "id": 497050,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/497/497050.png",
+          "colors": [
+            "#54209B",
+            "#54209B"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        },
+        {
+          "name": "Turquoise",
+          "id": 497053,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/497/497053.png",
+          "colors": [
+            "#73BFBE",
+            "#73BFBE"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
+            }
+          ]
+        }
+      ],
+      "lore": "Rakan was content to coast his way through Babylon Academy. Then he saw Xayah at last year's prom—and it was like being struck by lightning. Now in a fiery new relationship, he's managed to talk his way into becoming captain of the Luminary Club, just so he can be at the tournament and see his love at her best. If they win? Even better.",
+      "release": "2025-03-19",
+      "set": [
+        "Battle Academia"
+      ],
+      "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin47/images/rakan_splash_centered_47.skins_rakan_skin47.jpg",
+      "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin47/images/rakan_splash_uncentered_47.skins_rakan_skin47.jpg",
+      "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin47/images/rakan_splash_tile_47.skins_rakan_skin47.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin47/rakanloadscreen_47.skins_rakan_skin47.jpg",
+      "loadScreenVintagePath": null,
+      "newEffects": true,
+      "newAnimations": true,
+      "newRecall": true,
+      "newVoice": false,
+      "newQuotes": false,
+      "voiceActor": [
+        "Ronan Summers"
+      ],
+      "splashArtist": [
+        "Sora Kim",
+        "West Studio"
+      ]
     }
   ]
 }
